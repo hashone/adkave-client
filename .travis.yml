@@ -1,13 +1,13 @@
 env:
   global:
-    - "FTP_USER=galaxyit"
+    - "FTP_USER=mirfish"
 # FTP_PASSWORD
     - secure: >
-        P4xwNyo+IbmFd9ukDWUjH6JAXn77uWSSw4a1unjI+JPngRjFAWNud5YA/9XPaOlXinSjBtIuBjX0LX8l3ntYsTW5j4ZvWR5l4ijjFO9woodMqK7NiEQfyNBTXfZ37gZ4XSfJB2LybMgJYBx4/jNb39ZhzdJ2IJ/IziMHpe6cqgU=
+        DeIBlAe3nPASxxmlYSMYdOrrn3LIHqvgIi4CcZAI1NO8A7n9WnHk+NNv8T17bbnaRxqw7Ebw7vjd8BREVmUSjBBcYxdz58oV9vtGBtEJphquQwmwV/50CWSRvYynmJ/gDXgDgC/+XnJaGO2IhoqP8L4jBxwT80715G8FXoPmqKU=
 # API Key
     - "sham_key=xXxAPIKEYxXx"
     - secure: >
-        f7WWnzuey0r5XgBXnLhZXwiQJkFBFBHtxq+cLvBS9UsmXmvuW85XhJgB/cTezFSlWsrjjQ6k7fvFrUhr46Pd5GcwLMsuZkIAYg6K7dWRkQL2w5lWm41LKbgJ1y3oEqdC7vxGx8Kv/Hk2Ag3tEbki4b4N1ecBw0N8msHMKSC0VPA=
+        N6pKUOL3YCaJhhfk22jnf4PvjLFBsOhMKK0F5d0SNAFGPb/G5dFo+kBZEVFNfmn8ODMqrlpNzN7bisIaLcEVLKDHWm07QOcwLZqvjEvey9OrbhyuqB35IowaJcNZuRfK6Oif1kGSydz0UD0CJjyt9FlOp/HJKM4AtdPfwUcPN/w=
 branches:
   only: master
 
