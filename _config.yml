@@ -2,6 +2,8 @@
 title: Mir Fisheries 
 url: "http://mirfish.adkave.com/"
 
+client_slug: 'mirfish' #for SQL table
+
 logo: 'img/adkave.png'
 
 second-logo:
